@@ -1,4 +1,4 @@
-package minicraft.gfx;
+﻿dpackage minicraft.gfx;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,11 +9,11 @@ import minicraft.core.io.Localization;
 public class Font {
 	// These are all the characters that will be translated to the screen. (The spaces are important)
 	private static String chars =
-			"ABCDEFGHIJKLMNOPQRSTUVWXYZ012345"+
-			"6789.,!?'\"-+=/\\%()<>:;^@ÁÉÍÓÚÑ¿¡"+
-			"ÃÊÇÔÕĞÇÜİÖŞÆØÅ";
-	
-	/* The order of the letters in the chars string is represented in the order that they appear in the sprite-sheet. */
+		
+            "ABCDEFGHIJKLMNOPQRSTUVWXYZ012345"+
+            "6789.,!?'"-+=/%()<>:;^@ÁÉÍÓÚÑ¿¡"+
+            "ÃÊÇÔÕĞÇÜİÖŞÆØÅБГДЖЗИЙЛПУФХЦЧШЩЪ Ь" + 
+            "ЭЮЯЫАВЕКМНОРСТ";	/* The order of the letters in the chars string is represented in the order that they appear in the sprite-sheet. */
 
 	public static void draw(String msg, Screen screen, int x, int y) { draw(msg, screen, x, y, -1); }
 
