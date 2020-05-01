@@ -1,4 +1,4 @@
-﻿### entity
+### entity
 
 # AirWizard.java
 Air Wizard: Defeated!
@@ -13,10 +13,10 @@ A costume lies on the ground...
 # Bed.java
 Can't sleep!
 Не спи!
-	
+
 Min 
 Мин 
-	
+
  Sec left!
  Сек. сталось!
 
@@ -53,7 +53,7 @@ You don't have a home!
 
 You can't go home from here!
 You can't go home from here!
- 
+
 ### entity end
 
 ### gfx
@@ -98,7 +98,7 @@ Lava Bucket
 
  Bucket
  Ведро
- 
+
 # ClothingItem.java
 
 Red Clothes
