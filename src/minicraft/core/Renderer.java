@@ -166,10 +166,10 @@ public class Renderer extends Game {
 	
 	/** Renders the main game GUI (hearts, Stamina bolts, name of the current item, etc.) */
 	private static void renderGui() {
-		// This draws the black square underneath the selected item, as long as the player isn't in creative.
+		// This draws the black box underneath the selected item, as long as the player isn't in creative.
 		if (!isMode("creative") || player.activeItem != null) {
 			for (int x = 12; x < 29; x++) {
-				screen.render(x * 7, Screen.h - 8, 30 + 30 * 32, 0, 3);
+				screen.render(x * 7, Screen.h - 8, 31, 0, 3);
 			}
 		}
 			

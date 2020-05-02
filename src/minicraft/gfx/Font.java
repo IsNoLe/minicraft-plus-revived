@@ -4,17 +4,16 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.sun.org.apache.regexp.internal.CharacterArrayCharacterIterator;
 import minicraft.core.io.Localization;
 
 public class Font {
     // These are all the characters that will be translated to the screen. (The spaces are important)
-    private static String chars =
+    private static final String chars =
             "ABCDEFGHIJKLMNOPQRSTUVWXYZ012345"+
-                    "6789.,!?'\"-+=/\\%()<>:;^@ÁÉÍÓÚÑ¿¡"+
-                    "ÃÊÇÔÕĞÇÜİÖŞÆØÅБГДЖЗИЙЛПУФЦЧШЩЪ Ь" +
-                    "ЭЮЯЫ";
-
-    /* The order of the letters in the chars string is represented in the order that they appear in the sprite-sheet. */
+            "6789.,!?'\"-+=/\\%()<>:;^@ÁÉÍÓÚÑ¿¡"+
+            "ÃÊÇÔÕĞÇÜİÖŞÆØÅБГДЖИЙЛПУФЦЧШЩЪЬЭЮ"+
+            "ЯЫАВЕКМНОРСТЗХ";/* The order of the letters in the chars string is represented in the order that they appear in the sprite-sheet. */
 
     public static void draw(String msg, Screen screen, int x, int y) { draw(msg, screen, x, y, -1); }
 

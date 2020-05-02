@@ -1,4 +1,6 @@
-﻿### entity
+### Translation created by IsNoLe
+
+### entity
 
 # AirWizard.java
 Air Wizard: Defeated!
@@ -13,10 +15,10 @@ A costume lies on the ground...
 # Bed.java
 Can't sleep!
 Не спи!
-	
+
 Min 
 Мин 
-	
+
  Sec left!
  Сек. сталось!
 
@@ -53,7 +55,7 @@ You don't have a home!
 
 You can't go home from here!
 You can't go home from here!
- 
+
 ### entity end
 
 ### gfx
@@ -98,7 +100,7 @@ Lava Bucket
 
  Bucket
  Ведро
- 
+
 # ClothingItem.java
 
 Red Clothes
@@ -277,67 +279,67 @@ Power Glove
 # StackableItem.java
 
 Wood
-Древесина
+Древесины
 
 Stone
-Камень
+Камня
 
 Leather
-Кожа
+Кожи
 
 Wheat
-Wheat
+Пшеницы
 
 Key
-Ключ
+Ключей
 
 arrow
-Стрела
+Стрел
 
 string
-Нить
+Нитей
 
 Coal
-Уголь
+Угля
 
 Iron Ore
-Железная Руда
+Железной Руды
 
 Lapis
-Лазурит
+Лазурита
 
 Gold Ore
-Золотая руда
+Золотой руды
 
 Iron
-Железный слиток
+Железных слитков
 
 Gold
-Золотой слиток
+Золотых слитков
 
 Rose
-Роза
+Роз
 
 GunPowder
-Порох
+Пороха
 
 Slime
-Слизь
+Слизи
 
 glass
-Стекло
+Стекла
 
 cloth
-Ткань
+Ткани
 
 gem
-Самоцвет
+Алмазов
 
 Scale
-Чашуйка
+Чашуйек
 
 Shard
-Осколок
+Осколков
 
 # TileItem.java
 
