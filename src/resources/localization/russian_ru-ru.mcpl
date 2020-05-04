@@ -1,4 +1,4 @@
-### Translation created by IsNoLe
+﻿### Translation created by IsNoLe
 
 ### entity
 
@@ -14,7 +14,7 @@ A costume lies on the ground...
 
 # Bed.java
 Can't sleep!
-Не спи!
+Нельзя спать!
 
 Min 
 Мин 
@@ -77,7 +77,7 @@ Gold Armor
 Золотая Броня
 
 Gem Armor
-Самоцветная Броня
+Алмазная Броня
 
 # BookItem.java
 
@@ -424,20 +424,19 @@ Dig a hole first!
 # ToolItem.java
 
 Wood
-Древесина
+Деревянный
 
 Rock
-Камень
+Каменный
 
 Iron
-Железный Слиток
+Железный
 
 Gold
-Золотой Слиток
+Золотой
 
 Gem
-Самоцвет
-
+Алмазный
 # FishingRodItem.java
 
 Wood Fishing Rod
@@ -450,7 +449,7 @@ Gold Fishing Rod
 Золотая удочка
 
 Gem Fishing Rod
-Самоцветная удочка
+Алмазная удочка
 
 # ToolType.java
 
@@ -489,7 +488,7 @@ Torch
 # Tiles.java
 
 Gem Ore
-Самоцветная Руда
+Алмазная Руда
 
 Wood Planks
 Деревянный пол
@@ -581,7 +580,7 @@ Gold
 Золото
 
 Gem
-Самоцветы
+Алмаз
 
 Ore
 Руда
