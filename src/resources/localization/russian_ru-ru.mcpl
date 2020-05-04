@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ﻿### Translation created by IsNoLe
 
+=======
+>>>>>>> e5e627ed259eaac7f6045eb6e70671237de3d261
 ### entity
 
 # AirWizard.java
@@ -14,7 +17,11 @@ A costume lies on the ground...
 
 # Bed.java
 Can't sleep!
+<<<<<<< HEAD
 Нельзя спать!
+=======
+Не спи!
+>>>>>>> e5e627ed259eaac7f6045eb6e70671237de3d261
 
 Min 
 Мин 
