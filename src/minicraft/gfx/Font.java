@@ -13,11 +13,7 @@ public class Font {
             "ABCDEFGHIJKLMNOPQRSTUVWXYZ012345"+
             "6789.,!?'\"-+=/\\%()<>:;^@ÁÉÍÓÚÑ¿¡"+
             "ÃÊÇÔÕĞÇÜİÖŞÆØÅБГДЖИЙЛПУФЦЧШЩЪЬЭЮ"+
-<<<<<<< HEAD
             "ЯЫАВЕКМНОРСТЗХ";/* The order of the letters in the chars string is represented in the order that they appear in the sprite-sheet. */
-=======
-            "ЯЫАВЕКМНОРСТЗ";/* The order of the letters in the chars string is represented in the order that they appear in the sprite-sheet. */
->>>>>>> e5e627ed259eaac7f6045eb6e70671237de3d261
 
     public static void draw(String msg, Screen screen, int x, int y) { draw(msg, screen, x, y, -1); }
 
