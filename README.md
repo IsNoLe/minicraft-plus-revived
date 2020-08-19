@@ -1,4 +1,4 @@
-# minicraft-plus-revived
+# minicraft-plus-revived RUS
 Minicraft+, a modded version of minicraft that adds many more features to the original version. To learn more about minicraft, or play it yourself, take a look at [www.playminicraft.com](https://www.playminicraft.com).
 
 ## Major Features
